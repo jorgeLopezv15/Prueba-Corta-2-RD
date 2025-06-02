@@ -1,0 +1,36 @@
+.menuu{
+    padding-top: 50px;
+    justify-content: center;
+    
+}
+.hey{
+    padding-top: 20px;
+    padding-left: 6px;
+    
+}
+.buscador{
+    padding-left: 6px;
+    padding-top: 20px;
+}
+.categoria{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 60px;
+    padding-top: 20px;
+
+}
+.num{
+    padding-right: 120px;
+}
+.comida{
+    display: flex;
+    padding-top: 5px;
+    justify-content: space-between;
+    
+    
+   
+}
+.all{
+    padding-right: 10px;
+    
+}
